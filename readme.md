@@ -1,4 +1,4 @@
-# News Portal
+# GPT Bot
 
 A Chat app to talk with GPT using OpenAI API.
 
